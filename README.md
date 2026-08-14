@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
