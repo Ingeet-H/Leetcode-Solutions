@@ -26,6 +26,7 @@
 | [0058-length-of-last-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
