@@ -8,6 +8,7 @@
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1920-build-array-from-permutation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
