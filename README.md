@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
