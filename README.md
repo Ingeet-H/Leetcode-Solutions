@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
