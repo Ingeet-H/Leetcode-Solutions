@@ -13,6 +13,7 @@
 | [0860-lemonade-change](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
