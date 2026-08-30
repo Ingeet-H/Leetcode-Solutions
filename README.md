@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
