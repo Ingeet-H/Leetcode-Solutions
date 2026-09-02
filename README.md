@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
