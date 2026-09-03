@@ -25,6 +25,7 @@
 | [1672-richest-customer-wealth](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
