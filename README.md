@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
