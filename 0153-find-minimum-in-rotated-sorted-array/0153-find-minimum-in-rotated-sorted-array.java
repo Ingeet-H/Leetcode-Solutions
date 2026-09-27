@@ -1,6 +1,7 @@
 class Solution {
     public int findMin(int[] nums) {
         int p = findPivot(nums);
+        //minimum element in the array will be the one right next to pivot
         return nums[p+1];
     }
     int findPivot(int[] a){
