@@ -16,6 +16,7 @@
 | [0162-find-peak-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -85,6 +86,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -116,6 +118,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
