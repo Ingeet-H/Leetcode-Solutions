@@ -58,6 +58,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -67,6 +68,7 @@
 | [0066-plus-one](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -81,6 +83,7 @@
 | [0125-valid-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
