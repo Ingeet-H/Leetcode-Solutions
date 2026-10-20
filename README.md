@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0268-missing-number) |
