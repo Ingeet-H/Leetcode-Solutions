@@ -16,8 +16,6 @@ class Solution {
             else
             i++;
         }
-        for(int x = 0;x<c.length;x++)
-        st = st + c[x];
-        return st;
+        return String.valueOf(c);
     }
 }
