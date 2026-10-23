@@ -38,6 +38,7 @@
 | [1470-shuffle-the-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -94,6 +95,7 @@
 | [0412-fizz-buzz](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
