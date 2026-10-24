@@ -1,11 +1,25 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-        String s1 = "";
-        String s2 = "";
-        for(int i = 0;i<word1.length;i++)
-        s1 = s1 + word1[i];
-        for(int i = 0;i<word2.length;i++)
-        s2 = s2 + word2[i];
-        return (s1.equals(s2));
+        int pointer1 = 0;
+        int index1 = 0;
+        int pointer2 = 0;
+        int index2 = 0;
+        while(pointer1<word1.length&&pointer2<word2.length){
+            char c1 = word1[pointer1].charAt(index1);
+            char c2 = word2[pointer2].charAt(index2);
+            if(c1!=c2)
+            return false;
+            index1++;
+            index2++;
+            if(index1==word1[pointer1].length()){
+                index1 = 0;
+                pointer1++;
+            }
+            if(index2==word2[pointer2].length()){
+                index2 = 0;
+                pointer2++;
+            }
+        }
+        return (pointer1 == word1.length&&pointer2 == word2.length);
     }
 }
