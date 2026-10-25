@@ -98,6 +98,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
@@ -178,6 +179,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
