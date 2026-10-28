@@ -103,6 +103,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
