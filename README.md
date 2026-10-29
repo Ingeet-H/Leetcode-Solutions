@@ -97,6 +97,7 @@
 | [0412-fizz-buzz](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0925-long-pressed-name](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -116,6 +117,7 @@
 | [0344-reverse-string](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0925-long-pressed-name](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
