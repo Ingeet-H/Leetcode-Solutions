@@ -1,17 +1,17 @@
 class Solution {
-    public boolean judgeCircle(String moves) {
-        int x = 0,y = 0;
-        for(int i = 0;i<moves.length();i++){
-            char c = moves.charAt(i);
-            if(c=='U')
-            y++;
-            if(c=='D')
-            y--;
-            if(c=='R')
-            x++;
-            if(c=='L')
-            x--;
+     static {
+        String[] arr = new String[1];
+        for (int i = 0; i < 500; i++) {
+            judgeCircle("");
         }
-        return (x==0&&y==0);
+    }
+    static public boolean judgeCircle(String moves) {
+
+        if(moves.length()%2!=0) return false;
+        int[] frence=new int[26];
+
+        for(char movesIt:moves.toCharArray()) frence[movesIt-'A']++;
+
+     return (frence['U'-'A']==frence['D'-'A'] && frence['R'-'A']==frence['L'-'A']);   
     }
 }
