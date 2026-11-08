@@ -89,6 +89,7 @@
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2652-sum-multiples) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -246,6 +247,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Pigeonhole Principle
 |  |
 | ------- |
