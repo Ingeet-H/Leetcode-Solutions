@@ -1,10 +1,15 @@
 class Solution {
     public int mySqrt(int n) {
-        if (n == 0) return 0;
-        long x = n;
-        while (x * x > n) {
-            x = (x + n / x) / 2;
+        int lo = 0, hi = n, ans = 0;
+        while (lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+            if ((long) mid * mid <= n) {
+                ans = mid;
+                lo = mid + 1;
+            } else {
+                hi = mid - 1;
+            }
         }
-        return (int) x;
+        return ans;
     }
 }
