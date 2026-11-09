@@ -87,6 +87,7 @@
 | [0412-fizz-buzz](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0866-prime-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -223,6 +224,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -274,4 +276,8 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
