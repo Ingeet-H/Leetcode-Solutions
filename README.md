@@ -91,6 +91,7 @@
 | [0509-fibonacci-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2652-sum-multiples) |
@@ -259,6 +260,7 @@
 | [0389-find-the-difference](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Pigeonhole Principle
 |  |
