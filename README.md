@@ -49,6 +49,7 @@
 | [1929-concatenation-of-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3467-transform-array-by-parity](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
