@@ -1,5 +1,12 @@
 class Solution {
     public boolean isPowerOfThree(int n) {
-        return n > 0 && 1162261467 % n == 0;
+        return helper(1,n);
+    }
+    boolean helper(long p, int n){
+        if(p>n)
+        return false;
+        if(p==n)
+        return true;
+        return helper(p*3,n);
     }
 }
