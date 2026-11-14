@@ -88,6 +88,7 @@
 | [0231-power-of-two](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -260,6 +261,7 @@
 | [0231-power-of-two](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
