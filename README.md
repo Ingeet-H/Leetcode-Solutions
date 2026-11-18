@@ -254,6 +254,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -265,6 +266,7 @@
 | [0231-power-of-two](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0476-number-complement) |
