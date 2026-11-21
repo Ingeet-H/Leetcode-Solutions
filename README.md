@@ -125,6 +125,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -148,6 +149,7 @@
 | [0832-flipping-an-image](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
