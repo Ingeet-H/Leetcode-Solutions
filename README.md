@@ -126,6 +126,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
