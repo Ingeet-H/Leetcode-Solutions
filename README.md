@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@
 | [0067-add-binary](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -242,10 +244,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
@@ -309,6 +313,7 @@
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 ## Newton's Method
 |  |
@@ -330,4 +335,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
