@@ -2,12 +2,7 @@ class Solution {
     public int countPrimeSetBits(int left, int right) {
         int count = 0,c = 0;
         for(int i = left;i<=right;i++){
-            int n = i;
-            count = 0;
-            while(n>0){
-                count++;
-                n = n&(n-1);
-            }
+            count = Integer.bitCount(i);
             if(isPrime(count))
             c++;
         }
