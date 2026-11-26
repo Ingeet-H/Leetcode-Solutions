@@ -46,6 +46,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1773-count-items-matching-a-rule](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -291,6 +292,7 @@
 | [0868-binary-gap](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ingeet-H/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Pigeonhole Principle
 |  |
